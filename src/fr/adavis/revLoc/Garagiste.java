@@ -36,6 +36,29 @@ public class Garagiste {
 	}
 
 
+	
+
+
+
+	/**
+	 * @return the nom
+	 */
+	public String getNom() {
+		return nom;
+	}
+
+
+
+
+
+	/**
+	 * @return the adresse
+	 */
+	public String getAdresse() {
+		return adresse;
+	}
+
+
 
 
 
