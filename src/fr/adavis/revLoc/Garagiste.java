@@ -24,6 +24,29 @@ public class Garagiste {
 		this.adresse = adresse;
 	}
 
+	
+
+
+
+	/**
+	 * @param nom the nom to set
+	 */
+	public void setNom(String nom) {
+		this.nom = nom;
+	}
+
+
+
+
+
+	/**
+	 * @param adresse the adresse to set
+	 */
+	public void setAdresse(String adresse) {
+		this.adresse = adresse;
+	}
+
+
 
 
 
